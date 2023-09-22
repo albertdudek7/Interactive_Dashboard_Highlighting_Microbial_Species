@@ -8,6 +8,8 @@ Using the D3 library to read in samples.json from the URL https://2u-data-curric
 
 Interactive Dashboard below: 
 
+http://127.0.0.1:5500/index.html
+
 ![image](https://github.com/albertdudek7/belly-button-challenge-2/assets/127783844/0493bc1f-7ef7-4a83-835a-921f79844bf9)
 
 
